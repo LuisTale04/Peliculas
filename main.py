@@ -1,0 +1,1 @@
+print('Nombre: Luis Alexander Talé de León \nCarné: 1507722\nCurso: Introducción a la ingeniería en informatica y sistemas')
