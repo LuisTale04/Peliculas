@@ -10,11 +10,13 @@
 
 ## Datos curiosos
 
-    - [] \Los efectos de sonido de las armas que se escuchan a lo largo de la película fueron grabados a partir de disparos con munición real con armas auténticas. Fuego vivo.
-    - [] \Todos los actores principales excepto Matt Damon tuvieron un brutal entrenamiento militar durante varios días ante del rodaje con el propósito de mostrar esa crudeza en sus interpretaciones
-    - [] \Spielberg tuvo una idea… ¿Y si ponemos taladros a los lados de las cámaras para que la cámara también se sacuda durante las explosiones? Y así lo hizo pensando que acababa de inventar una asombrosa técnica de fotografía en el cine.
-    - [] \Dos embarcaciones de la escena del desembarco de Normandía se utilizaron realmente durante la Segunda Guerra Mundial.
-    - [] \Mel Gibson y Harrison Ford podrían haber interpretado al Capitán John Miller.
+    - [] Los efectos de sonido de las armas que se escuchan a lo largo de la película fueron grabados a partir de disparos con munición real con armas auténticas. Fuego vivo.
+    - [] Todos los actores principales excepto Matt Damon tuvieron un brutal entrenamiento militar durante varios días ante del rodaje con el propósito de mostrar esa crudeza en sus interpretaciones
+    - [] Spielberg tuvo una idea… ¿Y si ponemos taladros a los lados de las cámaras para que la cámara también se sacuda durante las explosiones? Y así lo hizo pensando que acababa de inventar una asombrosa técnica de fotografía en el cine.
+    - [] Dos embarcaciones de la escena del desembarco de Normandía se utilizaron realmente durante la Segunda Guerra Mundial.
+    - [] Mel Gibson y Harrison Ford podrían haber interpretado al Capitán John Miller.
+
+:+1:
 
 ### ¿Qien es el soldado Ryan?
 
@@ -176,4 +178,4 @@
     Paul Hickey
     Soldado en la playa
 
-@github.com/JorgMorales
+@github/JorgMorales
