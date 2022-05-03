@@ -10,23 +10,23 @@
 
 ## Datos curiosos
 
-    - [] Los efectos de sonido de las armas que se escuchan a lo largo de la película fueron grabados a partir de disparos con munición real con armas auténticas. Fuego vivo.
-    - [] Todos los actores principales excepto Matt Damon tuvieron un brutal entrenamiento militar durante varios días ante del rodaje con el propósito de mostrar esa crudeza en sus interpretaciones
-    - [] Spielberg tuvo una idea… ¿Y si ponemos taladros a los lados de las cámaras para que la cámara también se sacuda durante las explosiones? Y así lo hizo pensando que acababa de inventar una asombrosa técnica de fotografía en el cine.
-    - [] Dos embarcaciones de la escena del desembarco de Normandía se utilizaron realmente durante la Segunda Guerra Mundial.
-    - [] Mel Gibson y Harrison Ford podrían haber interpretado al Capitán John Miller.
-
-:+1:
+- [] Los efectos de sonido de las armas que se escuchan a lo largo de la película fueron grabados a partir de disparos con munición real con armas auténticas. Fuego vivo.
+  - [] Todos los actores principales excepto Matt Damon tuvieron un brutal entrenamiento militar durante varios días ante del rodaje con el propósito de mostrar esa crudeza en sus interpretaciones
+  - [] Spielberg tuvo una idea… ¿Y si ponemos taladros a los lados de las cámaras para que la cámara también se sacuda durante las explosiones? Y así lo hizo pensando que acababa de inventar una asombrosa técnica de fotografía en el cine.
+  - [] Dos embarcaciones de la escena del desembarco de Normandía se utilizaron realmente durante la Segunda Guerra Mundial.
+  - [] Mel Gibson y Harrison Ford podrían haber interpretado al Capitán John Miller.
 
 ### ¿Qien es el soldado Ryan?
 
-    Frederick Niland, el verdadero James Ryan :flushed:
+:flushed:
+Frederick Niland, el verdadero James Ryan
 
-    Frederick Niland era paracaidista de la 101 División Aerotransportada.:boom: Su misión principal era caer en la región de Ardenas el 5 de junio de 1944, para posibilitar un exitoso desembarco aliado en los días posteriores.:skull_and_crossbones:
+    Frederick Niland era paracaidista de la 101 División Aerotransportada.:boom: Su misión principal era caer en la región de Ardenas el 5 de junio de 1944, para posibilitar un exitoso desembarco aliado en los días posteriores.
 
 #### Sinopsis
 
-    Tras el desembarco :boat: de Normandía durante la Segunda Guerra Mundial, donde murieron muchos combatientes aliados, un grupo de soldados americanos es elegido para llevar a cabo su última misión: salvar a un solo hombre que se encuentra al otro lado de las líneas enemigas. La patrulla del capitán John Miller (Tom Hanks) debe arriesgar sus vidas para encontrar y devolver a casa a salvo al soldado James Ryan (Matt Damon), cuyos tres hermanos han muerto en el conflico bélico.
+:skull_and_crossbones:
+Tras el desembarco :boat: de Normandía durante la Segunda Guerra Mundial, donde murieron muchos combatientes aliados, un grupo de soldados americanos es elegido para llevar a cabo su última misión: salvar a un solo hombre que se encuentra al otro lado de las líneas enemigas. La patrulla del capitán John Miller (Tom Hanks) debe arriesgar sus vidas para encontrar y devolver a casa a salvo al soldado James Ryan (Matt Damon), cuyos tres hermanos han muerto en el conflico bélico.
 
 ##### reparto
 
